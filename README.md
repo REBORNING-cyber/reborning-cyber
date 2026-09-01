@@ -1,104 +1,137 @@
 <div align="center">
 
-# ⚡ REBORNING-cyber ⚡
+```
+ ██████╗ ███████╗██████╗  ██████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗
+ ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔═══██╗████╗  ██║██║████╗  ██║██╔════╝
+ ██████╔╝█████╗  ██████╔╝██║   ██║██║   ██║██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
+ ██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║   ██║██║╚██╗██║██║██║╚██╗██║██║   ██║
+ ██████╔╝███████╗██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██║██║ ╚████║╚██████╔╝
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 
-### «Перерождение в мире цифрового кода»
+   ▄████████  ▄▄▄▄███▄▄▄▄   ▄█   ▄█  ████████▄     ▄████████     ███      ▄████████
+  ███    ███ ▄██▀▀▀███▀▀▀██▄ ███  ███  ███   ▀███   ███    ███ ▀█████████▄ ███    ███
+  ███  ███   ███   ███   ███ ███▌ ███  ███    ███   ███    █▀     ▀███▀▀██ ███  ███
+ ▀███████▄   ███   ███   ███ ███▌ ███  ███    ███  ▄███▄▄▄        ███   ▀ ▄███▄▄▄▀▀
+   ███__███  ███   ███   ███ ███▌ ███  ███    ███ ▀▀███▀▀▀        ███     ▀▀███▀▀▀
+   ███  ███  ███   ███   ███ ███  ███▄  ███    ███   ███    █▄    ███       ███   █▄
+   ███    ███ ▀█   ███   █▀  ███   ███▄ ████████▀    ██████████  ▄████▀     █████████▄
+```
 
-[![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira_Code&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=Привет%2C+я+взламываю+матрицу+%F0%9F%91%8B;Python+%2B+JavaScript+%2B+Web+%3E+%3E+%3E;Учусь+кодить+каждый+день+%F0%9F%9A%80;Добро+пожаловать+в+мой+профиль+%F0%9F%91%8A)](https://git.io/typing-svg)
+**`CYBER // REBIRTH PROTOCOL`** · наст. разработчик · `[reborning ➜ rebirth cycle]`
+
+[![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=REBORNING-cyber%2FREBORNING-cyber&label=Signal%20strength&countColor=%2300E5FF&labelColor=%230a0e17)](https://visitorbadge.io/status?Leviathan&countColor=%2300E5FF)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira_Code&duration=3100&pause=900&color=00E5FF&center=true&vCenter=true&width=640&lines=Initializing+rebirth+cycle...;>+python+hack_the_matrix.py;Я+учусь+кодить+каждый+день+%F0%9F%9A%80;Web+%2B+Python+%3D+%E2%9C%94;Добро+пожаловать+в+мою+матрицу+%F0%9F%91%8A)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```diff
-> Инициализация профиля...
-> Класс:        REBORNING-cyber
-> Статус:       начинающий разработчик 🚀
-> Уровень:      ~~~~~[████████░░░░] 40%
-> Специализация: web + python script
-> Миссия:       перебраться на следующий уровень
+```
+> ACCESS GRANTED ██
+> user:      REBORNING-cyber
+> role:      novice developer 🚀
+> harnas:    web :: python :: git
+> goal:      level up with every commit
+>
+> "Перерождение — это не конец, а новый ноль."
 ```
 
 ---
 
-## 🛰️ Обо мне
+## 🧬 Протокол реборна
 
 ```css
-Я начинающий разработчик, который влюбился в код.
-Изучаю веб-технологии и Python, пишу свои первые проекты
-и стараюсь делать их лучше с каждым коммитом.
+/* ~/.profile/rebirth.css */
 
-На этом "перерождении" (rebirth 🌱) я:
-  ✔ осваиваю чистый и понятный код
-  ✔ учусь грамотно работать с Git и GitHub
-  ✔ строю фундамент для будущего в IT
-  ✔ верю, что стабильность важнее спешки
+developer {
+  nickname:    "REBORNING-cyber";
+  experience:  начинающий, но горит идеей;
+  stack:       html5, css3, javascript, python, git, github;
+  philosophy:  «чистый код — это искусство»;
+  rhythm:      каждый день чуть-чуть лучше;
+  attitude:    🔥 curious, hungry, relentless;
+}
 ```
 
----
-
-## 🧰 Технологии, которые я изучаю
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Что я практикую:**
+- ✔ читаемый и осмысленный код
+- ✔ грамотная работа с Git и ветками
+- ✔ дисциплина: маленькие шаги каждый день
+- ✔ уверенный задел в IT — без спешки
 
 ---
 
-## 📡 Сетевой уровень
+## 🧰 Технологический арсенал
 
-- **Протокол:** `HTTPS`
-- **Хост:** `github.com/REBORNING-cyber`
-- **Ключ доступа:** открыт для всех желающих 🔓
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/REBORNING-cyber"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📊 Телеметрия (статистика)
+## 🛰️ Телеметрия
 
 <div align="center">
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=REBORNING-cyber&show_icons=true&theme=tokyonight&bg_color=0a0e17&hide_border=true&icon_color=00E5FF&text_color=9aa5b1&title_color=00E5FF)
+  <a href="https://github.com/REBORNING-cyber">
+    <img src="https://github-readme-stats.vercel.app/api?username=REBORNING-cyber&show_icons=true&theme=tokyonight&bg_color=0a0e17&hide_border=true&icon_color=00E5FF&text_color=9aa5b1&title_color=00E5FF&rank_icon=github" width="49%" />
+  </a>
+  <a href="https://github.com/REBORNING-cyber">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=REBORNING-cyber&theme=black-ice&hide_border=true&stroke=0000&background=0a0e17&fire=00E5FF&ring=00E5FF&sideNums=00E5FF&currStreakNum=00E5FF&sideLabels=00E5FF" width="49%" />
+  </a>
 
-![Непрерывность (streak)](https://github-readme-streak-stats.herokuapp.com/?user=REBORNING-cyber&theme=black-ice&hide_border=true&stroke=0000&background=0a0e17&fire=00E5FF&ring=00E5FF&sideNums=00E5FF)
+  <br/>
 
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=REBORNING-cyber&layout=compact&theme=tokyonight&bg_color=0a0e17&hide_border=true&text_color=9aa5b1&title_color=00E5FF)
+  <a href="https://github.com/REBORNING-cyber">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REBORNING-cyber&layout=donut-vertical&theme=tokyonight&bg_color=0a0e17&hide_border=true&text_color=9aa5b1&title_color=00E5FF&langs_count=6" />
+  </a>
 
 </div>
 
 ---
 
-## 🏆 Достижения
+## 🏆 Кубок трофеев
 
 <div align="center">
 
-![Трофеи](https://github-profile-trophy.vercel.app/?username=REBORNING-cyber&theme=onestar&no-frame=true&margin-w=15&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=REBORNING-cyber&theme=onestar&no-frame=true&margin-w=12&column=6)
 
 </div>
 
 ---
 
-## 🐍 Змейка съедает мои коммиты
+## 🐍 Змейка пожирает мои коммиты
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/REBORNING-cyber/REBORNING-cyber/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/REBORNING-cyber/REBORNING-cyber/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <details>
-<summary><b>📁 Развернуть: заметки разработчика</b></summary>
+<summary><b>📁 РАЗВЕРНУТЬ ▸ логи разработчика</b></summary>
 
 ```yaml
-# ~/.config/rebirth/notes.yaml
-вдохновение: каждый новый коммит = шаг вперёд
-блокировка: лень и прокрастинация
-любимая_песня: "lo-fi beats to code to" 🎧
-кофе: тёмный, крепкий, в неограниченном количестве ☕
+# logs/rebirth-2026.yaml
+version: 1.0
+motivation:
+  drivers: [новый навык, рабочий проект, идея в голове]
+  blocker: лень ▸ побеждаю рефлексивным "просто начни"
+energy:
+  fuel:   "lo-fi beats to code to" 🎧
+  coffee: ☕ infinite
+commit_policy:
+  - маленькие осмысленные коммиты
+  - понятные сообщения
+  - код, который сам себе документирует
 ```
 
 </details>
@@ -107,17 +140,18 @@
 
 <div align="center">
 
-### 📬 Связаться со мной
+## 📡 Установить связь
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/REBORNING-cyber)
-
-**— связь установлена — сигнал сильный —**
+<p align="center">
+  <a href="https://github.com/REBORNING-cyber"><img src="https://img.shields.io/badge/GitHub-REBORNING--cyber-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▒▒░░  █ REBORNING-cyber █  ░░▒▒▓▓▓▓▓▓▓▓▓▓
-▓▓▓░░░▒▒▓▓▓░░▒▒▓▓  CIAO, CODERS!  ▓▓▒▒░░▓▓▓▒▒░░░▓▓▓
+░░▓▓▓▓▓▓▓▓▓▓▓▓░░  ═══  contact channel online  ═══  ░░▓▓▓▓▓▓▓▓▓▓▓▓░░
+░ signal:  ─┤▓▓▓▓├─  █ REBORNING-cyber █  ─┤▓▓▓▓├─  ░░  strong ░░
 ```
 
-⭐ **Спасибо, что заглянули!** Матрица рада, что вы здесь.
+> **Matrix operator:** `REBORNING-cyber`
+> _Спасибо, что заглянули. Матрица помнит вас._ ⭐
 
 </div>
